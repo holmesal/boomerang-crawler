@@ -1,0 +1,5 @@
+*.cer
+*.p12
+*.log
+*.pem
+node_modules/
